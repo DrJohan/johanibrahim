@@ -146,6 +146,11 @@ enableEmoji = true
     title = "Collection"
     url = "/collection/"
     weight = 4
+  [[menu.header]]
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 1
   
   
   # Configure footer  
